@@ -1,7 +1,9 @@
 # ML-Life-Expectancy
 This is my first Machine Learning project that predicts Life Expectancy with Lineer Regression using other values.
 
-The values are: 'Country', 'Year', 'Life_expectancy', 'Adult Mortality',
+The values are: 
+
+       'Country', 'Year', 'Life_expectancy', 'Adult Mortality',
 
        'infant deaths', 'Alcohol', 'percentage_expenditure', 'Hepatitis B',
        
